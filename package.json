@@ -1,0 +1,11 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4",
+    "cors": "^2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
